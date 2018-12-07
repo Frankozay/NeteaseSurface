@@ -6,3 +6,7 @@
 ### Introspection
 none  
 ### Screenshot
+![Image text](https://github.com/Frankozay/NeteaseSurface/raw/master/Screenshot/4.png)  
+![Image text](https://github.com/Frankozay/NeteaseSurface/raw/master/Screenshot/3.png)  
+![Image text](https://github.com/Frankozay/NeteaseSurface/raw/master/Screenshot/2.png)  
+![Image text](https://github.com/Frankozay/NeteaseSurface/raw/master/Screenshot/1.png)  
