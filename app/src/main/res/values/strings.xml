@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NeteaseSurface</string>
+    <string name="OtherLogin">其它登录方式</string>
+    <string name="loginByNumber">手机号登录</string>
+    <string name="contentDescription">ICON</string>
+    <string name="vx">VX</string>
+    <string name="qq">QQ</string>
+    <string name="wb">WB</string>
+    <string name="wy">WY</string>
+    <string name="vxWord">微信</string>
+    <string name="qqWord">QQ</string>
+    <string name="wbWord">微博</string>
+    <string name="wyWord">网易邮箱</string>
+    <string name="register">注册</string>
+    <string name="registerButton">注册</string>
+    <string name="loginbutton">登录</string>
+</resources>
